@@ -1,5 +1,5 @@
 # javascript-sample-operations
-Sample Javascript-based Author Operations
+Sample Javascript-based Author Operations.
 
 For each XML document edited in the Oxygen Author editing mode you can define a framework configuration in the "Document Type Association" preferences page. In the framework associations besides being able to specify a CSS used for rendering:
 
