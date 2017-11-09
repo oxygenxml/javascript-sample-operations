@@ -1,4 +1,6 @@
 function doOperation(){
+    //Search for the DITA table closest to the caret location, expand all conrefs/conkeyrefs/keyrefs inside it, serialize it to XML
+    //, upload the XML to a web server, undo the changes back to the original state.
     authorAccess.getDocumentController().beginCompoundEdit();
     modified = authorAccess.getEditorAccess().isModified();
      try{
