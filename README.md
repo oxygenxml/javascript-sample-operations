@@ -15,4 +15,11 @@ there is a JSOperation which can be used to execute small pieces of Javascript c
 
 This project has various samples of using JSOperations to perform various changes to the XML opened in the Author editing mode.
 
+Copyright and License
+---------------------
+Copyright 2018 Syncro Soft SRL.
+
+This project is licensed under [Apache License 2.0](https://github.com/oxygenxml/javascript-sample-operations/blob/master/LICENSE)
+
+
 
