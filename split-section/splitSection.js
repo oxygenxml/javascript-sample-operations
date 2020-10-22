@@ -10,6 +10,7 @@ function doOperation() {
             sectionAtCaret = currentNode;
             break;
         }
+        currentNode = currentNode.getParent();
     }
     if (sectionAtCaret != null) {
         //The caret is inside a section.
