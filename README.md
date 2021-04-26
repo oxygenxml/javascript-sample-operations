@@ -15,6 +15,8 @@ there is a JSOperation which can be used to execute small pieces of Javascript c
 
 This project has various samples of using JSOperations to perform various changes to the XML opened in the Author editing mode.
 
+For ways of debugging complex JSOperation's this GitHub project by Eric van der Vlist may help: https://gitea.dyomedea.com/Dyomedea/ramblings/src/branch/master/oxygen/js-debugger
+
 Copyright and License
 ---------------------
 Copyright 2018 Syncro Soft SRL.
