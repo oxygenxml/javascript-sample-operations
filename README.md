@@ -17,6 +17,8 @@ This project has various samples of using JSOperations to perform various change
 
 For ways of debugging complex JSOperation's this GitHub project by Eric van der Vlist may help: https://gitea.dyomedea.com/Dyomedea/ramblings/src/branch/master/oxygen/js-debugger
 
+For Oxygen XML Web Author and Oxygen Content Fusion, the operations defined in this project work just inside the framework, they won't work in a JavaScript plugin that's executed in browser.
+
 Copyright and License
 ---------------------
 Copyright 2018 Syncro Soft SRL.
